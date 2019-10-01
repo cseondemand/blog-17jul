@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en"      dir="ltr">
+  <head>
+    <title>Google Developers</title>
+    <meta name="robots" content="noindex">
+    <meta charset="utf-8">
+    <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="iframe" content="standalone">
+            <script>
+      (function(){
+        window.framebox=window.framebox||function(){(window.framebox.q=window.framebox.q||[]).push(arguments)};
+                var a={},b=function(){(window.framebox.dq=window.framebox.dq||[]).push(arguments)};
+        ['initAutoSize','updateSize','requestQueryAndFragment','replaceState','pushState'].forEach(function(x){a[x]=function(){b(x,arguments)}});
+        window.devsite={framebox:{AutoSizeClient:a}};
+      })();
+            (function(d,e,v,s,i,t,E){d['GoogleDevelopersObject']=i;
+        t=e.createElement(v);t.async=1;t.src=s;E=e.getElementsByTagName(v)[0];
+        E.parentNode.insertBefore(t,E);})(window, document, 'script',
+        'https://www.gstatic.com/devrel-devsite/v2355ed73ae6b243a36832e70498f2cd0b3f352ff30481ebdfdc56826b566bf8a/js/app_loader.js', '[1,"en",null,"/js/devsite_app.js","https://www.gstatic.com/devrel-devsite/v2355ed73ae6b243a36832e70498f2cd0b3f352ff30481ebdfdc56826b566bf8a","https://www.gstatic.com/devrel-devsite/v2355ed73ae6b243a36832e70498f2cd0b3f352ff30481ebdfdc56826b566bf8a/developers","https://developers-dot-devsite-v2-prod.appspot.com",null,1]')
+            </script>
+      </head>
+    <body >
+    <!doctype html>
+
+<html>
+<head>
+
+  <script async="async" src="https://www.google.com/adsense/search/ads.js"></script>
+  <script type="text/javascript" charset="utf-8">
+    (function(g,o){g[o]=g[o]||function(){(g[o]['q']=g[o]['q']||[]).push(
+    arguments)},g[o]['t']=1*new Date})(window,'_googCsa');
+  </script>
+
+</head>
+<body>
+
+<p>Shopping Search results</p>
+<div id="afshcontainer"></div>
+<script type="text/javascript" charset="utf-8">
+
+var pageOptions = {
+  'pubId' : 'vert-pla-test1-srp',
+  'query' : 'flowers'
+};
+
+var afshblock = {
+  'container' : 'afshcontainer',
+  'width' : 500,
+  'height' : 400
+};
+
+_googCsa('plas', pageOptions, afshblock);
+</script>
+
+</body>
+</html>
+
+  </body>
